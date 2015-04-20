@@ -1,0 +1,25 @@
+{
+  "name": "yoeen-bower-aui",
+  "version": "5.8.11",
+  "homepage": "https://docs.atlassian.com/aui/latest/",
+  "description": "Atlassian User Interface",
+  "main": [
+    "aui/js/aui.js",
+    "aui/css/aui.css"
+  ],
+  "keywords": [
+    "Atlassian",
+    "User",
+    "Interface",
+    "AUI"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
